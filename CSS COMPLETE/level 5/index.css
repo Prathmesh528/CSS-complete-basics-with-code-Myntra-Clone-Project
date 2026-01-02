@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+        padding: 0px;
+}
+
+nav a{
+    text-decoration: none;
+    margin-left: 90px;
+    padding: 5px;
+}
+header{
+    background-color: lawngreen;
+    height: 30px;
+}
+#second{
+    height: 50px;
+    width: 50px;
+    background-color: darkgreen;
+    border-radius: 50%;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(145, 78, 116);
+    margin: 5px;
+    text-align: center;
+    display: block;
+}
+#container{
+    border: 5px solid;
+}
+#box4{
+    position: fixed;
+    right: 10px;
+}
+
